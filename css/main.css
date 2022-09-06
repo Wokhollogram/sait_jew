@@ -13,6 +13,7 @@ body {
     background: var(--lightColor);
     color: var(--textColor);
     font-size: 22px;
+    margin-top: 30px;
 }
 
 .container {
@@ -95,6 +96,7 @@ body {
     grid-template-rows: 218px 218px;
     gap: 15px 16px;
     margin-top: 48px;
+    
 }
 
 .grid__cover:nth-child(1) {
